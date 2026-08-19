@@ -10,7 +10,7 @@ git commit -m "repetition"
 git push -u origin main
 
 git add .
-git commit -m "iced
+git commit -m "iced"
 git push
 
 # delete the timestamp
