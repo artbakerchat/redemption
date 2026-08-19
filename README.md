@@ -1,11 +1,18 @@
-Add 11 sentences
+# Add 11 sentences
+# 7 sub-clauses
+# one redemption project
 
-7 sub-clauses
+git cofig --global user.email "?"
+gi9t config --global user.name "John"
 
-one redemption
+git add .
+git commit -m "repetition"
+git push -u origin main
 
-delete the timestamp
+git add .
+git commit -m "iced
+git push
 
-pick one black iced tea
-
-maybe Bergamot
+# delete the timestamp
+# pick one black iced tea
+# possibly, Bergamot
